@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2020-01-25
+## [1.0.0] - 2020-01-27
 ### Added
 - Basic Express server generated with express-generator
 - Added helpers for settings and middleware
