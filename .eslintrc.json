@@ -1,0 +1,19 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "globalReturn": true,
+      "impliedStrict": true
+    }
+  },
+  "env": {
+    "node": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "quotes": ["error", "double"],
+    "no-unused-vars": 1
+  }
+}
